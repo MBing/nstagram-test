@@ -1,0 +1,13 @@
+body {
+	padding-top: 50px;
+}
+
+footer {
+	padding: 50px;
+}
+
+.instagram-pic {
+	position: relative;
+	padding: 10px;
+	overflow: hidden;
+}
